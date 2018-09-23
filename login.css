@@ -4,6 +4,7 @@ body{
 	color:white;
 	background:url(https://www.planwallpaper.com/static/images/blue-abstract-glass-balls.jpg);
 	background-size:cover;
+	background-repeat:no-repeat;
     color:red;
     font-family: arial;
 }
